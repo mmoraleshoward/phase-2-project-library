@@ -1,6 +1,6 @@
 function Header(){
     return (
-            <p>Header will go here</p>
+            <h1>Browse The Virtual Library</h1>
     )
 }
 
