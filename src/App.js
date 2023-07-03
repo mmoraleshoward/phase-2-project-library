@@ -1,9 +1,14 @@
 import './App.css';
+import Header from './Header.js'
+import Searchbar from './Searchbar.js'
+import BookSelect from './BookSelect.js'
 
 function App() {
   return (
     <div className="App">
-      <p>Content soon to be available</p>
+      <Header />
+      <Searchbar />
+      <BookSelect />
     </div>
   );
 }
