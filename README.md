@@ -2,6 +2,10 @@
 
 This repository is for a Phase 2 project in the 2023 FlatIron Software Development program. This repo is a work in progress and will be updated continuously.
 
+## What This Is For
+
+The purpose of this React API is to give those who interact to the site to get a preview of classic books and what they have to offer a reader. A user will be able to search for books by title and categories, read the summary, and an excerpt of the book.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# mmoraleshoward.github.io
